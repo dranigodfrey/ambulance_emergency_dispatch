@@ -1,0 +1,6 @@
+hospital_id,name,node_id,beds_total
+H1,Arua Regional Referral (sim),54,250
+H2,Rhema Hospital (sim),26,80
+H3,Ediofe Hospital (sim),45,120
+H4,Hospital D (sim),87,40
+H5,Hospital E (sim),93,30

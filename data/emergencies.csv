@@ -1,0 +1,61 @@
+request_id,arrival_min,node_id,severity,category
+E001,0.51,64,5,Maternal emergency
+E002,9.13,114,3,Fall / injury
+E003,15.25,70,4,Other
+E004,20.81,75,3,Road traffic accident
+E005,24.62,14,2,Maternal emergency
+E006,27.01,104,4,Other
+E007,31.56,26,2,Severe malaria (child)
+E008,47.19,118,2,Fall / injury
+E009,79.09,65,3,Severe malaria (child)
+E010,79.46,68,2,Other
+E011,80.07,82,4,Burns
+E012,80.17,90,2,Other
+E013,82.37,51,4,Other
+E014,90.44,54,3,Other
+E015,92.47,67,2,Fall / injury
+E016,95.79,61,3,Road traffic accident
+E017,99.22,98,1,Road traffic accident
+E018,112.38,66,4,Maternal emergency
+E019,117.43,54,3,Other
+E020,126.06,108,4,Other
+E021,130.55,91,5,Burns
+E022,133.83,85,5,Other
+E023,140.37,51,3,Burns
+E024,147.5,1,1,Other
+E025,154.01,118,3,Stroke
+E026,155.21,62,3,Other
+E027,161.81,71,3,Road traffic accident
+E028,168.93,40,3,Maternal emergency
+E029,171.24,91,4,Burns
+E030,173.65,23,5,Other
+E031,184.92,83,2,Other
+E032,186.77,24,4,Fall / injury
+E033,187.4,117,1,Road traffic accident
+E034,189.8,69,5,Maternal emergency
+E035,193.57,25,2,Road traffic accident
+E036,199.14,34,3,Severe malaria (child)
+E037,199.81,40,3,Other
+E038,204.5,17,3,Other
+E039,208.04,76,4,Burns
+E040,208.39,85,2,Cardiac event
+E041,214.51,117,3,Fall / injury
+E042,216.49,19,3,Stroke
+E043,218.38,13,2,Maternal emergency
+E044,218.59,44,3,Road traffic accident
+E045,218.7,60,2,Burns
+E046,221.09,116,1,Other
+E047,224.48,103,2,Stroke
+E048,226.75,43,3,Stroke
+E049,231.29,8,3,Road traffic accident
+E050,232.16,117,2,Road traffic accident
+E051,234.57,96,3,Other
+E052,239.53,112,1,Stroke
+E053,245.69,66,4,Cardiac event
+E054,246.39,108,2,Burns
+E055,248.6,53,4,Fall / injury
+E056,250.06,44,2,Other
+E057,252.81,99,4,Burns
+E058,255.33,41,3,Other
+E059,255.84,101,3,Burns
+E060,262.62,108,2,Road traffic accident
