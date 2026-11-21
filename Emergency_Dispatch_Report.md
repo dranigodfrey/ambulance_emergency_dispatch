@@ -1,6 +1,15 @@
 # Improving Emergency Response in Arua City Through Efficient Algorithms
 
-**Group Project Report** | Muni University | Group members: [names and registration numbers]
+**Group Project Report** | Muni University | Advanced Algorithms and Complexity
+
+**Group members:**
+| Name	| Registration Number | 
+| --- | --- |
+| Drani Godfrey | 2026/U/MCS/02228 | 
+| Jakuma Kelvin	| 2026/U/MCS/00060 |
+| Yokoko Christine| 2026/U/MCS/00065 |
+| Apangubo Patrick | 2026/U/MCS/00055 |
+
 
 ---
 
