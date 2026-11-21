@@ -1,4 +1,4 @@
-# Arua City Emergency Dispatch and Routing
+# # Arua City Emergency Dispatch & Routing: Improving Emergency Response Through Efficient Algorithms
 
 An algorithmic decision-support prototype for ambulance dispatch in Arua City, Uganda. It was built as a group project for the Algorithms course at Muni University.
 

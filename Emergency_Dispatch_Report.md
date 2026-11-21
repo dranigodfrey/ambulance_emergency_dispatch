@@ -1,4 +1,4 @@
-# Improving Emergency Response in Arua City Through Efficient Algorithms
+# Arua City Emergency Dispatch & Routing: Improving Emergency Response Through Efficient Algorithms
 
 **Group Project Report** | Muni University | Advanced Algorithms and Complexity
 
@@ -199,13 +199,15 @@ Cormen, T. H., Leiserson, C. E., Rivest, R. L. and Stein, C. (2022). *Introducti
 
 ## Contribution statement
 
-Complete this table truthfully before submission, replacing the bracketed placeholders. Each member should be able to explain and defend the part they are credited with. The roles below are a suggested split for a group of five; for three or four members, merge adjacent roles.
+The project was collaboratively completed by all four group members, with each member assigned specific responsibilities according to their area of contribution and expertise. The assigned tasks included pipeline design, dataset generation, algorithm implementation, simulation development, testing, and analysis. In addition, all members jointly participated in benchmarking, computational complexity analysis, chart preparation, and final report editing. The table below presents a breakdown of each member's assigned responsibilities.
 
 | Member | Responsibilities Assigned|
 | --- | --- |
-| [Name 1] | Pipeline design, simulation loop, notebook integration, final testing |
-| [Name 2] | Dataset generation, CSV schema, graph data structure, data description |
-| [Name 3] | Heap-based queue, aging formula, policy comparison, sensitivity analysis |
-| [Name 4] | Dijkstra, A\*, ambulance selection, hand-verified tests |
-| [Name 5] | Benchmarks, complexity analysis, charts, report editing |
+| Apangubo Patrick | Pipeline design, simulation loop, notebook integration, final testing |
+| Jakuma Kelvin | Dataset generation, CSV schema, graph data structure, data description |
+| Yokoko Christine | Heap-based queue, aging formula, policy comparison, sensitivity analysis |
+| Drani Godfrey | Dijkstra, A\*, ambulance selection, hand-verified tests |
+| Drani Godfrey, Jakuma Kelvin, Yokoko Christine, Apangubo Patrick | Benchmarks, complexity analysis, charts, report editing |
+---
+
 
