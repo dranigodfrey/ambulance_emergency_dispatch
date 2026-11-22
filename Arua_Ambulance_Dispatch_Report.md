@@ -1,4 +1,4 @@
-# Arua City Emergency Dispatch & Routing: Improving Emergency Response Through Efficient Algorithms
+# Ambulance Dispatch and Routing for Arua City: A Simulation Study of Priority Queuing, Dijkstra and A*
 
 **Group Project Report** | Muni University | Advanced Algorithms and Complexity
 
@@ -41,7 +41,7 @@ We then keep only the largest connected piece of the network, so every junction 
 
 On top of the network we placed five hospitals, four ambulance stations and eight ambulances (two per station). Sixty emergency calls arrive over a four-hour window following a Poisson process, the standard model for random, independent arrivals. Each call has a severity from 1 to 5, drawn with probabilities of 15%, 25%, 30%, 20% and 10%, and a category such as road traffic accident, maternal emergency or cardiac event.
 
-Two caveats. The hospital names and coordinates are placeholders, and should be replaced with surveyed data if we can get it. The code does not need to change when that happens. The data is stored in six CSV files: nodes, roads, hospitals, stations, ambulances and emergencies.
+Two caveats. The hSeverityospital names and coordinates are placeholders, and should be replaced with surveyed data if we can get it. The code does not need to change when that happens. The data is stored in six CSV files: nodes, roads, hospitals, stations, ambulances and emergencies.
 
 ### 2.2 Choice of data structures
 
